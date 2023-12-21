@@ -11,13 +11,13 @@ I'm currently an Associate Professor at the National University of Defense Techn
 
 Education
 ======
-Ph.D., Computer Science and Technology, National University of Defense Technology, 06/2022
+Ph.D., Computer Science and Technology, National University of Defense Technology, 03/2017-06/2022
 
 Joint-PhD Training, Department of Mathematics, University of California, Los Angeles (ULCA), 10/2018-06/2020
 
-M.S., Computer Science and Technology, National University of Defense Technology, 12/2016
+M.S., Computer Science and Technology, National University of Defense Technology, 09/2014-12/2016
 
-B.S., Computer Science and Technology, Lanzhou University, 06/2014
+B.S., Computer Science and Technology, Lanzhou University, 09/2010-06/2014
 
 Work Experience
 ======
