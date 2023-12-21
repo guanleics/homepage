@@ -11,26 +11,28 @@ I'm currently an Associate Professor at the National University of Defense Techn
 
 Education
 ======
-2010.09-2014.06 Lanzhou University
+Ph.D., Computer Science and Technology, National University of Defense Technology, 06/2022
 
-2014.09-2016.12 National University of Defense Technology
+M.S., Computer Science and Technology, National University of Defense Technology, 12/2016
 
-2017.03-2022.06 National University of Defense Technology
+B.S., Computer Science and Technology, Lanzhou University, 06/2014
 
-Publications
+Work Experience
 ======
-[1]
+Associate professor, National University of Defense Technology, 12/2023--Now
 
-[2]
+Assistant professor, National University of Defense Technology, 07/2022--11/2023
 
-[3]
+Research
+======
+My research interests include:
 
-[4]
+Machine Learning
 
-[5]
+Parallel and Distributed Computing
 
-[6]
+Optimization
 
-[7]
+AI for Science
 
-[8]
+
