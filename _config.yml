@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Lei Guan"
-  avatar           : "guanlei.jpg"
+  avatar           : "WechatIMG377.jpeg"
   bio              : "Computer science researcher"
   location         : "China Changsha"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=lF7CmeUAAAAJ"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Lei-Guan-16"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9041-3244"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
