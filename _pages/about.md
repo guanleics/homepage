@@ -27,12 +27,12 @@ Research
 ======
 My research interests include:
 
-Machine Learning
+  * Machine Learning
 
-Parallel and Distributed Computing
+  * Parallel and Distributed Computing
 
-Optimization
+  * Optimization
 
-AI for Science
+  * AI for Science
 
 
